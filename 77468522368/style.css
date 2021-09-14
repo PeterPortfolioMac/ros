@@ -34,7 +34,7 @@ body {
   top: -0.4em;
 }
 .player-controls .audio-label span {
-  font-size: 18px;
+  font-size: 30px;
 }
 .player-controls .audio-label span small {
   display: block;
