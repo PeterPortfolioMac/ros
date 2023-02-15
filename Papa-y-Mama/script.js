@@ -76,7 +76,7 @@ canvas.addEventListener("touchend", function(e) {
   };
   if (num >= datas.data.length * 0.75) {
     // 达到面积要求时执行的内容    
-    alert("Cuvântul îl găsești pe Telegram. Trimite cuvântul corect pentru a merge mai departe.");   
+    alert("Manda el mensaje: GRACIAS al grupo Juntitos mejor");   
   }
 });
 
@@ -112,7 +112,7 @@ canvas.addEventListener("mouseup", function(e) {
   };
   if (num >= datas.data.length * 0.75) {
     // 达到面积要求时执行的内容    
-    alert("Cuvântul îl găsești pe Telegram. Trimite cuvântul corect pentru a merge mai departe.");   
+    alert("Manda el mensaje: GRACIAS al grupo Juntitos mejor");   
   }
 });
 
