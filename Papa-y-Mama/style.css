@@ -1,0 +1,44 @@
+body {
+  background-color: #ebb843;
+  font-family: fantasy;
+}
+
+.guajiang-area {
+  margin-top: 150px;
+  text-align: center;
+}
+
+.jine {
+  position: relative;
+  width: 287px;
+  height: 133px;
+  margin: 0 auto;
+  text-align: center;
+  color: #c42d2d;
+  border: 8px solid #ff5d5d;
+}
+
+#canvas {
+  position: absolute;
+  left: -8px;
+  top: -8px;
+  background: transparent;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.jine .font {
+  font-size: 16px;
+  margin-top: 15px;
+  margin-bottom:5px;
+}
+
+.jine .num {
+  font-size: 50px;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.jine .yuan {
+  font-size: 39px;
+}
